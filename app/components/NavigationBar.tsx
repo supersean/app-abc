@@ -2,6 +2,7 @@ import Link from "next/link";
 
 const NavigationBar = () => {
   const links = [
+    { name: "ABC", url: "/" },
     {
       name: "About",
       url: "/about",
