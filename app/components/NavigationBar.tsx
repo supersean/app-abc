@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const NavigationBar = () => {
   const links = [
-    { name: "ABC", url: "/" },
+    { name: "ABC v1.1", url: "/" },
     {
       name: "About",
       url: "/about",
