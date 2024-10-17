@@ -8,6 +8,7 @@ const NavigationBar = () => {
       url: "/about",
     },
     { name: "Contact", url: "/contact" },
+    { name: "Root", url: "/" },
   ];
 
   return (
