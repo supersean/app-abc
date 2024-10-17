@@ -8,7 +8,10 @@ const NavigationBar = () => {
       url: "/about",
     },
     { name: "Contact", url: "/contact" },
-    { name: "Root", url: "sean-davis-hnbvfnagbvd8b9h4.z03.azurefd.net" },
+    {
+      name: "Root",
+      url: "https://sean-davis-hnbvfnagbvd8b9h4.z03.azurefd.net",
+    },
   ];
 
   return (
